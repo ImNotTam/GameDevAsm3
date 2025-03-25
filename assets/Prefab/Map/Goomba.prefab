@@ -63,8 +63,8 @@
       "__type__": "TypedArray",
       "ctor": "Float64Array",
       "array": [
-        -342.607,
-        95.239,
+        -846.823,
+        -133.378,
         0,
         0,
         0,
@@ -90,7 +90,7 @@
   },
   {
     "__type__": "cc.Sprite",
-    "_name": "",
+    "_name": "Goomba copy<Sprite>",
     "_objFlags": 0,
     "node": {
       "__id__": 1
